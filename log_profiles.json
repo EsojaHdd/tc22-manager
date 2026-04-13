@@ -1,0 +1,8 @@
+[
+  {
+    "_comment": "Add one profile per log type. Fields: name (display name), path (full path on device), prefix (filename prefix to filter).",
+    "name": "Confronta",
+    "path": "/storage/emulated/0/Android/data/terminal.com.tl.mty/files/logs_confronta",
+    "prefix": "confronta"
+  }
+]

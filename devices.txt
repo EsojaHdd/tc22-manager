@@ -1,0 +1,3 @@
+# TC22 Manager — Scanner device list
+# Add one device per line in format ip:port
+# Example: 10.0.0.1:5555
